@@ -1,0 +1,31 @@
+DICA1: Não é necessário colocar ponto e virgula no final do código Java script, e SIM Java script é uma linguagem de programação.
+
+DICA2: para fazer códigos em nodeJS no terminal do Vusual StudioCode, escreva node depois aperte enter.
+Para sair do terminal digite ".exite", logo depois escreva "exit" apertando enter , e no final a tela será retirada.
+Tipos primitivos visados na aula:
+
+TIPOS PRIMITIVOS PRIMORDIAIS :
+
+////////////////////////
+
+STRING: podem ser palavras ou uma sequencia de números de números com caracteres exemplos: "100.510.326-00"
+repare que o CPF é embora seja um numero é composto de caracteres como pontos e traços, os caracteres também podem se palavras como "maria", "google" ou "Araújo" por exemplo.
+
+NUMBER: Existem os tipos primitivos chamados de NUMBER, como 1,2,3, ou 23 por exemplo, 
+números como 12 ou -3 nas demais linguagens de programação são considerados como "inteiros" ou "int" e números
+como 1.5 , 0.6 ou -2.3 são considerados como números "reais" ou "float" mas no Java Script,  todos são considerados NUMBER.
+
+BOOLEAN: TRUE e FALSE
+
+NULL: Representa um valor vazio.
+
+UNDEFINED: Serve para indicar que uma variável não tem um valor atribuído.
+
+TYPEOF: basicamente mostra o tipo de variável, por exemplo você digita n = 2 , e em seguida escreve typeof n, 
+o resultado será number ou digita n = juca e em seguida digita typeof n o resultado será strig ou 
+digita typeof [] , o resultado será object.
+
+////////////////////////
+
+GUIAS DE ESTUDDO ONLINE PARA COSNULTA : ECMA JAVASCRIPT E MOZILA JAVASCRPT
+
