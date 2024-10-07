@@ -25,7 +25,13 @@ TYPEOF: basicamente mostra o tipo de variável, por exemplo você digita n = 2 ,
 o resultado será number ou digita n = juca e em seguida digita typeof n o resultado será strig ou 
 digita typeof [] , o resultado será object.
 
-////////////////////////
+////////////////////////FIM DAS AULAS ATÉ 5 ///////////////////////////
 
 GUIAS DE ESTUDDO ONLINE PARA COSNULTA : ECMA JAVASCRIPT E MOZILA JAVASCRPT
+
+
+Começando:
+
+
+
 
